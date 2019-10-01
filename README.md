@@ -1,2 +1,2 @@
 # swagger-order
-cli command to order property fields by x-order in swagger file.
+CLI command to order property fields by x-order value in swagger file.
